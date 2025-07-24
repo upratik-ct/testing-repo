@@ -1,10 +1,4 @@
 from flask import Flask, jsonify, request
-    """
-    This Flask application provides endpoints to manage tasks including getting all tasks, creating a
-    new task, editing a task, and deleting a task.
-    :return: The code provided is a simple Flask application that defines routes for managing tasks.
-    Here's what is being returned by each route:
-    """
 from app.db import tasks, add_task, delete_task, update_task
 
 app = Flask(__name__)
