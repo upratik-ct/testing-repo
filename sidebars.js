@@ -1,13 +1,7 @@
 // sidebars.js
 module.exports = {
   docs: [
-    'intro', // existing default page
-    // add more pages here as you create them
-  ],
-};
-module.exports = {
-  docs: [
-    'intro',
-    'code-docs',
+    'intro',       // references your 'intro.md' file
+    'code-docs',   // references your 'code-docs.md' file
   ],
 };
