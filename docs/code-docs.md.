@@ -1,0 +1,28 @@
+---
+id: code-docs
+title: Code Documentation
+sidebar_label: Code Docs
+---
+
+# My Project Code Documentation
+
+## Module 1
+
+### Function A
+Description of Function A.
+
+### Class a
+Details about Class a.
+
+### Function B
+Description of Function A.
+
+### Class b
+Details about Class b.
+
+### Function C
+Description of Function A.
+
+### Class c
+Details about Class c.
+...
