@@ -5,3 +5,9 @@ module.exports = {
     // add more pages here as you create them
   ],
 };
+module.exports = {
+  docs: [
+    'intro',
+    'code-docs',
+  ],
+};
